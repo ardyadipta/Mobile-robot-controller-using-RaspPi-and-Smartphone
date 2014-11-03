@@ -1,4 +1,7 @@
-# Script created by Daniel Curzon (http://www.instructables.com/member/drcurzon)
+# Script originally created by Daniel Curzon (http://www.instructables.com/member/drcurzon)
+# Edited by Ardya Dipta to control the mobile robot using RaspPi Robot Board by adding GPIO pin 7 and 8, 
+# and edited pin 17 to instruct the robot to move forward
+# more details visit http://ardyadipta.com/?p=425
 # Initial version created 10th June 2012
 # Version: 1.0
 
